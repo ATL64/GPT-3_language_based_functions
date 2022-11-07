@@ -1,6 +1,8 @@
 # GPT-3 language based functions
 Notebooks to analyze accuracy of language based functions
 
+### Notebooks
+
 Each repo analyzes one of three functions:
 
 1. A function that takes an input string, expected to be in the form of a question, and tells you if the question makes sense
@@ -11,6 +13,10 @@ e.g.  "How many frogs does the photon have?" will be detected as a nonsense ques
 3. A function that takes as input five strings, expected to be sentences, and one more string expected to be a question.  Then the function will return the "popular" answer, i.e. the most frequent one
 
 The idea is that then we could use these functions as part of a larger toolkit to monitor cognitive processes built on GPT-3 cognitive-based architectures.
+
+### Datasets
+
+There's a few datasets of questions/answers built for the sole purpose of testing these functions.  Unfortunately they are small (20 points), but still good enough to give an idea of performance.
 
 # Conclusion
 
