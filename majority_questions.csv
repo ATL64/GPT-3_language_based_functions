@@ -1,0 +1,21 @@
+question_number,question,answer_1,answer_2,answer_3,answer_4,answer_5,validation
+1,What is left in the box?,"The box has a pencil, another 10 pencils and a strawberry.",The box has 21 pencils and a strawberry.,"The box has a pencil, a strawberry, and another 10 pencils.",The box has 21 pencils and a strawberry.,"The box has 10 pencils, a strawberry, and another pencil.",The box has 11 pencils and a strawberry.
+2,What is left in the box?,"The box has a pencil, another 10 pencils and a strawberry.",The box has 21 pencils and a strawberry.,"The box has a pencil, a strawberry, and another 10 pencils.",The box has 21 pencils and a strawberry.,"The box has 10 pencils, a strawberry, and another 11 pencils.",The box has 21 pencils and a strawberry.
+3,Should congress pass the law?,The law should go through,The law should be banned,The law should get the greenlight,The law should not be part of the constitution,The law should be implemented,The law should go through
+4,Should congress pass the law?,The law should go through,The law should be banned,The law should get the greenlight,The law should not be part of the constitution,The law should not be implemented,The law should not be implemented
+5,Did the experiment work correctly?,Yes,No,I don't know,Most likely,Probably,Yes
+6,Did the experiment work correctly?,Yes,No,I don't know,I'm not sure,Probably not,No
+7,How should I wash my hands?,Use handsoap,Use soap,Use alcohol,Use aloe vera soap,Use shampoo,Soap
+8,How should I wash my hands?,Use hair shampoo,Use soap,Use shampoo,Use aloe vera soap,Use shampoo,Shampoo
+9,What should we eat today?,Pizza,Sushi,Pizza or Sushi,Sushi,Hamburger,Sushi
+10,What should we eat today?,Pizza,Sushi,Pizza,Sushi or Pizza,Hamburger,Pizza
+11,How was the movie?,Great,Good,Perfect,Mediocre,Terrible,Good
+12,How was the movie?,Not great,Good,Perfect,Mediocre,Terrible,Bad
+13,Will the stock market recover?,It will go slighlty up,A recession is coming,We are heading for a bull run,The worse is over,We will continue the bear market for a while,Up
+14,Will the stock market recover?,It will go slighlty up,A recession is coming,We are heading for higher losses in general,The worse is over,We will continue the bear market for a while,Down
+15,What should we buy at the supermarket?,Pizza and some water bottles,"Milk, a sponge and a bottle of beer",Broccoli and sugar,Cereals and cherries,"A bottle of beer, a sponge and milk","A bottle of beer, a sponge and milk"
+16,What should we buy at the supermarket?,Pizza and an apple,"Milk, a sponge and a bottle of beer",Pizza and an apple,Apple and a pizza,"A bottle of beer, a sponge and milk",Pizza and an apple
+17,How many stars in the Milky Way?,100 billion,infinite,10 billion,100 million,One hundred billion,100 billion
+18,How many stars in the Milky Way?,100 billion,infinite,10 billion,100 million,One hundred billion,100 billion
+19,What movie should we watch?,The Godfather,The Godfather 2,Ninja Turtles,The Godfather 3,Ninja Turtles,Ninja Turtles
+20,Who is going to the movies?,John,Marie,Sophie,Steven,Sophie,Sophie
