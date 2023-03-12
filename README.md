@@ -15,6 +15,7 @@ e.g.  "How many frogs does the photon have?" will be detected as a nonsense ques
 The idea is that then we could use these functions as part of a larger toolkit to monitor cognitive processes built on GPT-3 cognitive-based architectures.
 
 In the "comparison" directory, I re run the notebooks to see how the davinci 003 model performs.
+In the  "comparison_chatGPT" directory, I re run the notebooks to see how the chatGPT model performs.
 
 ### Datasets
 
@@ -22,7 +23,7 @@ There's a few datasets of questions/answers built for the sole purpose of testin
 
 # Conclusion
 
-Functions 1 and 2 worked quite well.  Surprisingly number 3 was not as easy and I could not make it perform better -for now-. Latest davinci model did not show major improvements.
+Functions 1 and 2 worked quite well.  Surprisingly number 3 was not as easy and I could not make it perform better -for now-. Latest davinci model did not show major improvements and neither did chatGPT.
 
 I might come back to this repo in the coming months, but if GPT-4 comes out then I might not (or might use this as baseline to test the new model)
 
