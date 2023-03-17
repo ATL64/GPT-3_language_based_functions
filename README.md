@@ -23,7 +23,7 @@ There's a few datasets of questions/answers built for the sole purpose of testin
 
 # Conclusion
 
-Functions 1 and 2 worked quite well.  Surprisingly number 3 was not as easy and I could not make it perform better -for now-. Latest davinci model did not show major improvements and neither did chatGPT.
+Functions 1 and 2 worked quite well, GPT4 being the 100% performer (but other models were almost perfect too).  Surprisingly number 3 was not as easy and I could not make it perform better -for now-. Latest davinci model did not show major improvements and neither did chatGPT nor GPT4 8k.  We sit at about 70% accuracy on that task.
 
-I might come back to this repo in the coming months, but if GPT-4 comes out then I might not (or might use this as baseline to test the new model)
+I might try to fine tune GPT4 whenever that's possible and check how much it improves, specially for function 3.
 
