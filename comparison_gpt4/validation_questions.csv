@@ -1,0 +1,21 @@
+question_number,question,answer_1,answer_2,validation
+1,What is the hamburger made of?,The hamburger is made of meat,It's made of meat,Yes
+2,What is the hamburger made of?,The hamburger is made of meat,It's made of vegetables,No
+3,Will the stock market go up?,It will go on a bull run,It will go up,Yes
+4,Will the stock market go up?,It will go on a bull run,It will go sideways,No
+5,When did she fly the airplane?,She flew the airplane on Tuesday,On Tuesday,Yes
+6,When did she fly the airplane?,At midday,At midnight,No
+7,Why is the leaf green?,Because of the Chlorophyll,Chlorophyll makes the plants green,Yes
+8,Why is the leaf green?,Because of the Chlorophyll,Because of the carbon dioxide,No
+9,Where are rainbows formed?,Rainbows are formed in the atmosphere,In the sky,Yes
+10,Where are rainbows formed?,In the sky,In our imagination,No
+11,How are presidents elected?,They are elected via democratic elections,People vote to choose the president,Yes
+12,How are presidents elected?,They are elected via democratic elections,There is a raffle and whoever wins is president,No
+13,What do birds have that mice don't?,Wings,"Birds have wings, mice do not",Yes
+14,What do birds have that mice don't?,Wings,"Birds have peaks, mice do not",No
+15,Why are northern countries cold?,Because of the position relative to the Sun,Due to the Sun position,Yes
+16,Why are northern countries cold?,Because of the position relative to the Sun,Due to the northern Gods,No
+17,Where are computer chips made?,In China,In a region of China,Yes
+18,Where are computer chips made?,In India,In Pakistan,No
+19,What do germans and french have in common?,They both are fans of cheese,They both like cheese,Yes
+20,What do germans and french have in common?,They like martial arts,They both like frogs,No
